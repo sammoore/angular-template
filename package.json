@@ -7,8 +7,8 @@
     "build": "ng build",
     "lint": "ng lint",
     "prettier": "prettier",
-    "prettier:check": "prettier --check \"src/**/*.{ts,json,html}\"",
-    "prettier:write": "prettier --write \"src/**/*.{ts,json,html}\"",
+    "prettier:check": "prettier --check \"src/**/*.{ts,json,scss,html,md}\"",
+    "prettier:write": "prettier --write \"src/**/*.{ts,json,scss,html,md}\"",
     "tslint-check": "tslint-config-prettier-check ./tslint.json"
   },
   "engines": {
